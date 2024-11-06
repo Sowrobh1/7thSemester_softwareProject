@@ -1,1 +1,1 @@
-# 7thSemester_softwareProject
+# 7thSemester_SoftwareProject
